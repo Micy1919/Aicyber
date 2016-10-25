@@ -1,0 +1,12 @@
+这是第一次代码提交的项目
+git commit -m 'first commit'
+git push origin master
+
+与2015年完成，参考《集体编程智慧》中搜索引擎篇，类似百度搜索下啦框中的模糊搜索
+引擎网址:www.chiandaily.com
+权重设置:频率，位置
+
+
+使用方式:
+python mybaidu.py
+
