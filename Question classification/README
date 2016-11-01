@@ -1,0 +1,4 @@
+2016.10.30用SVM做问句分类
+data文件夹中是分好的问句语料和陈述句语料（问句语料是EngList.p；陈述句语料是ChiList.p）
+dict中是分词自己加的字典
+model中是用sklearn中svm做的分类模型
